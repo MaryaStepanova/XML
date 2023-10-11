@@ -1,1 +1,23 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Bug_ID>1</Bug_ID>
+  <Title>При авторизации на сайте не активна кнопка Забыли пароль?</Title>
+  <Environment>
+    <OS>HP Pavilion Laptop 15-eh1xxx Windows 11 home x64 22H2 22621.2283</OS>
+    <Browser>Microsoft Edge Version 117.0.2045.60 (Official build), (64 bit)</Browser>
+  </Environment>
+  <Precondition>
+    <Precondition_1>Профиль зарегистрирован на сайте</Precondition_1>
+    <Precondition_2>Открыта Home page сайта, профиль не авторизован</Precondition_2>
+  </Precondition>
+  <STR>1. Нажать Войти на сайте</STR>
+  <STR>2. Внести email или телефон</STR>
+  <STR>3. Нажать на кнопку Забыли пароль?</STR>
+  <AR>Не открывается страница Воссатновление пароля</AR>
+  <ER>Открывается страница Восстановление пароля</ER>
+  <Severity>Major</Severity>
+  <Priority>Medium</Priority>
+  <Attachments>Link</Attachments>
+  <Author>StepanovaMV</Author>
+  <Date>date="11/10/2023"</Date>
+</root>

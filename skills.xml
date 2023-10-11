@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<basic_testing_theory>Testing</basic_testing_theory>
+	<basic_testing_theory>Bug_reports</basic_testing_theory>
+	<basic_testing_theory>Documentation</basic_testing_theory>
+	<basic_testing_theory>Types_of_testing</basic_testing_theory>
+	<basic_testing_theory>Testing_methods</basic_testing_theory>
+	<basic_testing_theory>SDLC</basic_testing_theory>
+	<basic_testing_theory>STLC</basic_testing_theory>
+	<HTTP>Client_server_architecture</HTTP>
+	<HTTP>HTTP_methods_of_requests_to_the_server</HTTP>
+	<HTTP>HTTP_server_and_response_structures</HTTP>
+	<data_exchange_format>JSON</data_exchange_format>
+	<data_exchange_format>XML</data_exchange_format>
+	<API>Postman</API>
+	<API>JS</API>
+	<API>API_autotests</API>
+	<sniffing>Charles</sniffing>
+	<sniffing>Fidler</sniffing>
+	<DevTools>Google_Chrome</DevTools>
+	<DevTools>FireFox</DevTools>
+	<VPN>How_it_works</VPN>
+	<VPN>Why_it_is_needed</VPN>
+	<VPN>How_to_use_it</VPN>
+	<VPN>Tool_options</VPN>
+	<mobile_testing>iOS</mobile_testing>
+	<mobile_testing>Android</mobile_testing>
+	<building_applications>Android_Studio</building_applications>
+	<building_applications>XCode</building_applications>
+	<building_applications>ADB</building_applications>
+	<working_in_terminal>GitBush</working_in_terminal>
+	<working_in_terminal>GitHub</working_in_terminal>
+	<database>SQL</database>
+	<database>Redis</database>
+	<database>Postgres</database>
+	<load_testing>Jmeter</load_testing>
+	<methodology>Scrum</methodology>
+	<test_design_techniques>Equivalence_classes</test_design_techniques>
+	<test_design_techniques>Boundary_values</test_design_techniques>
+	<test_design_techniques>Combinatorial_techniques</test_design_techniques>
+	<test_design_techniques>States_and_transitions</test_design_techniques>
+	<Python>Learning_the_basics</Python>
+	<Python>Creating_a_client_server_application</Python>
+</skills>
+
+
+
+
+
+
